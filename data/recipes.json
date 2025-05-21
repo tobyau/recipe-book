@@ -1,0 +1,264 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Classic Margherita Pizza",
+      "description": "A traditional Italian pizza topped with fresh tomatoes, mozzarella, and basil. Simple yet delicious!",
+      "image": "https://images.unsplash.com/photo-1604382354936-07c5d9983bd3?auto=format&fit=crop&w=800&q=80",
+      "prepTime": "15 mins",
+      "cookTime": "15 mins",
+      "servings": 4,
+      "cuisine": "Italian",
+      "ingredients": [
+        { "id": 1, "name": "Pizza dough", "amount": "1 ball" },
+        { "id": 2, "name": "Fresh mozzarella", "amount": "200g" },
+        { "id": 3, "name": "Fresh basil leaves", "amount": "1 cup" },
+        { "id": 4, "name": "Tomato sauce", "amount": "1/2 cup" },
+        { "id": 5, "name": "Olive oil", "amount": "2 tbsp" },
+        { "id": 6, "name": "Salt", "amount": "to taste" }
+      ],
+      "instructions": [
+        "Preheat the oven to 450°F (230°C).",
+        "Roll out the pizza dough on a floured surface.",
+        "Spread tomato sauce evenly over the dough.",
+        "Add torn mozzarella pieces.",
+        "Bake for 12-15 minutes until the crust is golden.",
+        "Top with fresh basil leaves and a drizzle of olive oil."
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Chicken Tikka Masala",
+      "description": "A popular Indian dish featuring tender chicken in a rich, creamy tomato-based curry sauce.",
+      "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=800&q=80",
+      "prepTime": "20 mins",
+      "cookTime": "30 mins",
+      "servings": 4,
+      "cuisine": "Indian",
+      "ingredients": [
+        { "id": 1, "name": "Chicken breast", "amount": "500g" },
+        { "id": 2, "name": "Yogurt", "amount": "1 cup" },
+        { "id": 3, "name": "Tomato sauce", "amount": "400g" },
+        { "id": 4, "name": "Heavy cream", "amount": "1/2 cup" },
+        { "id": 5, "name": "Garam masala", "amount": "2 tbsp" },
+        { "id": 6, "name": "Ginger", "amount": "1 tbsp" },
+        { "id": 7, "name": "Garlic", "amount": "4 cloves" }
+      ],
+      "instructions": [
+        "Marinate chicken in yogurt and spices for 2 hours.",
+        "Grill chicken until charred.",
+        "Sauté onions, ginger, and garlic.",
+        "Add tomato sauce and simmer.",
+        "Add cream and cooked chicken.",
+        "Simmer for 10 minutes until sauce thickens."
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Chocolate Lava Cake",
+      "description": "A decadent dessert with a warm, flowing chocolate center. Perfect for special occasions!",
+      "image": "https://images.unsplash.com/photo-1624353365286-3f8d62daad51?auto=format&fit=crop&w=800&q=80",
+      "prepTime": "15 mins",
+      "cookTime": "12 mins",
+      "servings": 4,
+      "cuisine": "French",
+      "ingredients": [
+        { "id": 1, "name": "Dark chocolate", "amount": "200g" },
+        { "id": 2, "name": "Butter", "amount": "100g" },
+        { "id": 3, "name": "Eggs", "amount": "4" },
+        { "id": 4, "name": "Sugar", "amount": "100g" },
+        { "id": 5, "name": "Flour", "amount": "60g" }
+      ],
+      "instructions": [
+        "Melt chocolate and butter together.",
+        "Whisk eggs and sugar until fluffy.",
+        "Fold in melted chocolate mixture.",
+        "Add flour and mix gently.",
+        "Bake at 200°C for 12 minutes.",
+        "Serve immediately with ice cream."
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Pad Thai",
+      "description": "A classic Thai stir-fried noodle dish with a perfect balance of sweet, sour, and savory flavors.",
+      "image": "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&w=800&q=80",
+      "prepTime": "20 mins",
+      "cookTime": "15 mins",
+      "servings": 2,
+      "cuisine": "Thai",
+      "ingredients": [
+        { "id": 1, "name": "Rice noodles", "amount": "200g" },
+        { "id": 2, "name": "Tofu", "amount": "150g" },
+        { "id": 3, "name": "Bean sprouts", "amount": "1 cup" },
+        { "id": 4, "name": "Peanuts", "amount": "1/4 cup" },
+        { "id": 5, "name": "Tamarind paste", "amount": "2 tbsp" },
+        { "id": 6, "name": "Palm sugar", "amount": "2 tbsp" }
+      ],
+      "instructions": [
+        "Soak rice noodles in warm water.",
+        "Stir-fry tofu until golden.",
+        "Add noodles and sauce.",
+        "Push noodles aside, add egg.",
+        "Add bean sprouts and peanuts.",
+        "Garnish with lime and cilantro."
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Beef Bourguignon",
+      "description": "A classic French beef stew braised in red wine with mushrooms, onions, and bacon.",
+      "image": "https://images.unsplash.com/photo-1600891964092-4316c288032e?auto=format&fit=crop&w=800&q=80",
+      "prepTime": "30 mins",
+      "cookTime": "3 hours",
+      "servings": 6,
+      "cuisine": "French",
+      "ingredients": [
+        { "id": 1, "name": "Beef chuck", "amount": "1kg" },
+        { "id": 2, "name": "Red wine", "amount": "750ml" },
+        { "id": 3, "name": "Bacon", "amount": "200g" },
+        { "id": 4, "name": "Mushrooms", "amount": "300g" },
+        { "id": 5, "name": "Pearl onions", "amount": "200g" },
+        { "id": 6, "name": "Carrots", "amount": "3" }
+      ],
+      "instructions": [
+        "Brown beef in batches.",
+        "Sauté bacon and vegetables.",
+        "Add wine and herbs.",
+        "Simmer for 2-3 hours.",
+        "Add mushrooms and onions.",
+        "Cook until meat is tender."
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Sushi Roll",
+      "description": "Fresh and healthy Japanese sushi roll with raw fish, vegetables, and seasoned rice.",
+      "image": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?auto=format&fit=crop&w=800&q=80",
+      "prepTime": "45 mins",
+      "cookTime": "20 mins",
+      "servings": 4,
+      "cuisine": "Japanese",
+      "ingredients": [
+        { "id": 1, "name": "Sushi rice", "amount": "2 cups" },
+        { "id": 2, "name": "Nori sheets", "amount": "4" },
+        { "id": 3, "name": "Fresh salmon", "amount": "200g" },
+        { "id": 4, "name": "Cucumber", "amount": "1" },
+        { "id": 5, "name": "Avocado", "amount": "1" },
+        { "id": 6, "name": "Rice vinegar", "amount": "2 tbsp" }
+      ],
+      "instructions": [
+        "Cook and season rice with vinegar.",
+        "Place nori on bamboo mat.",
+        "Spread rice evenly.",
+        "Add fish and vegetables.",
+        "Roll tightly using mat.",
+        "Slice and serve with soy sauce."
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Greek Moussaka",
+      "description": "A traditional Greek casserole with layers of eggplant, spiced meat, and creamy béchamel sauce.",
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80",
+      "prepTime": "40 mins",
+      "cookTime": "1 hour",
+      "servings": 6,
+      "cuisine": "Greek",
+      "ingredients": [
+        { "id": 1, "name": "Eggplant", "amount": "2 large" },
+        { "id": 2, "name": "Ground lamb", "amount": "500g" },
+        { "id": 3, "name": "Béchamel sauce", "amount": "2 cups" },
+        { "id": 4, "name": "Tomato sauce", "amount": "400g" },
+        { "id": 5, "name": "Cinnamon", "amount": "1 tsp" },
+        { "id": 6, "name": "Nutmeg", "amount": "1/4 tsp" }
+      ],
+      "instructions": [
+        "Slice and salt eggplant.",
+        "Make meat sauce with spices.",
+        "Prepare béchamel sauce.",
+        "Layer eggplant and meat.",
+        "Top with béchamel.",
+        "Bake until golden brown."
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Vietnamese Pho",
+      "description": "A fragrant Vietnamese noodle soup with beef, herbs, and rice noodles in a rich broth.",
+      "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80",
+      "prepTime": "30 mins",
+      "cookTime": "4 hours",
+      "servings": 6,
+      "cuisine": "Vietnamese",
+      "ingredients": [
+        { "id": 1, "name": "Beef bones", "amount": "2kg" },
+        { "id": 2, "name": "Rice noodles", "amount": "500g" },
+        { "id": 3, "name": "Bean sprouts", "amount": "200g" },
+        { "id": 4, "name": "Thai basil", "amount": "1 bunch" },
+        { "id": 5, "name": "Star anise", "amount": "3" },
+        { "id": 6, "name": "Cinnamon", "amount": "1 stick" }
+      ],
+      "instructions": [
+        "Roast bones and spices.",
+        "Simmer broth for 4 hours.",
+        "Cook rice noodles.",
+        "Slice beef thinly.",
+        "Assemble with herbs.",
+        "Serve with condiments."
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Tiramisu",
+      "description": "A classic Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cream.",
+      "image": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?auto=format&fit=crop&w=800&q=80",
+      "prepTime": "30 mins",
+      "cookTime": "0 mins",
+      "servings": 8,
+      "cuisine": "Italian",
+      "ingredients": [
+        { "id": 1, "name": "Ladyfingers", "amount": "200g" },
+        { "id": 2, "name": "Mascarpone", "amount": "500g" },
+        { "id": 3, "name": "Espresso", "amount": "2 cups" },
+        { "id": 4, "name": "Eggs", "amount": "4" },
+        { "id": 5, "name": "Sugar", "amount": "100g" },
+        { "id": 6, "name": "Cocoa powder", "amount": "2 tbsp" }
+      ],
+      "instructions": [
+        "Prepare strong coffee.",
+        "Whip egg yolks with sugar.",
+        "Fold in mascarpone.",
+        "Dip ladyfingers in coffee.",
+        "Layer cream and cookies.",
+        "Dust with cocoa powder."
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Korean Bibimbap",
+      "description": "A colorful Korean rice bowl topped with vegetables, meat, and a fried egg, served with gochujang sauce.",
+      "image": "https://images.unsplash.com/photo-1607305387299-a3d9611cd469?auto=format&fit=crop&w=800&q=80",
+      "prepTime": "40 mins",
+      "cookTime": "20 mins",
+      "servings": 2,
+      "cuisine": "Korean",
+      "ingredients": [
+        { "id": 1, "name": "Short-grain rice", "amount": "2 cups" },
+        { "id": 2, "name": "Beef", "amount": "200g" },
+        { "id": 3, "name": "Carrots", "amount": "1" },
+        { "id": 4, "name": "Spinach", "amount": "2 cups" },
+        { "id": 5, "name": "Gochujang", "amount": "2 tbsp" },
+        { "id": 6, "name": "Sesame oil", "amount": "1 tbsp" }
+      ],
+      "instructions": [
+        "Cook rice until fluffy.",
+        "Stir-fry vegetables separately.",
+        "Cook beef with sauce.",
+        "Fry eggs sunny-side up.",
+        "Arrange in bowl.",
+        "Top with gochujang sauce."
+      ]
+    }
+  ]
+} 
