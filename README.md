@@ -2,6 +2,8 @@
 
 ~ Vibe Coding ~ 
 
+Motivation: to store my personal recipes and share with friends/family
+
 ## Get started
 
 1. Install dependencies
