@@ -241,17 +241,14 @@ const styles = StyleSheet.create({
     padding: 20,
   },
   recipeCard: {
-    backgroundColor: Colors.background,
+    backgroundColor: '#fff',
     borderRadius: 16,
     marginBottom: 16,
-    shadowColor: Colors.shadow,
-    shadowOffset: {
-      width: 0,
-      height: 2,
-    },
-    shadowOpacity: 0.1,
-    shadowRadius: 4,
-    elevation: 3,
+    shadowColor: '#000',
+    shadowOffset: { width: 0, height: 1 },
+    shadowOpacity: 0.2,
+    shadowRadius: 10,
+    elevation: 2
   },
   recipeImage: {
     width: '100%',
