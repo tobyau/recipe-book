@@ -57,7 +57,7 @@ export default function HomeScreen() {
   const cuisines = recipeService.getUniqueCuisines();
 
   return (
-    <SafeAreaView style={styles.container}>
+    <SafeAreaView style={styles.container} edges={['top', 'left', 'right']}>
       <ScrollView showsVerticalScrollIndicator={false}>
         {/* Header */}
         <View style={styles.header}>

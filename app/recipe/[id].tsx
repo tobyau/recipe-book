@@ -15,7 +15,7 @@ export default function RecipeScreen() {
   const saved = recipe ? isSaved(recipe.id) : false;
 
   return (
-    <SafeAreaView style={styles.container}>
+    <SafeAreaView style={styles.container} edges={['top', 'left', 'right']}>
       <Stack.Screen
         options={{
           title: '',

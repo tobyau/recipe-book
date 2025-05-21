@@ -159,7 +159,7 @@ export default function ProfileScreen() {
   };
 
   return (
-    <SafeAreaView style={styles.bg}>
+    <SafeAreaView style={styles.bg} edges={['top', 'left', 'right']}>
       <View style={styles.headerCard}>
         <TouchableOpacity>
           <Image source={{ uri: mockUser.avatar }} style={styles.avatar} />

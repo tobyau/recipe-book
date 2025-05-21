@@ -70,7 +70,7 @@ export default function DiscoverScreen() {
   };
 
   return (
-    <SafeAreaView style={styles.bg}>
+    <SafeAreaView style={styles.bg} edges={['top', 'left', 'right']}>
       <ScrollView contentContainerStyle={styles.container} keyboardShouldPersistTaps="handled">
         <Text style={styles.title}>Discover Recipes</Text>
         <Text style={styles.subtitle}>Enter ingredients you have at home:</Text>

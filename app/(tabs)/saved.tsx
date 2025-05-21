@@ -68,7 +68,7 @@ export default function SavedScreen() {
   };
 
   return (
-    <SafeAreaView style={styles.container}>
+    <SafeAreaView style={styles.container} edges={['top', 'left', 'right']}>
       <View style={styles.headerContainer}>
         <Text style={styles.header}>Saved Recipes</Text>
         {filteredRecipes.length > 0 && (
